@@ -6,17 +6,20 @@ Markdown is a syntax allowing people to write with only minimal distractions fro
   - Looks good in many contexts
   - Cool!
 
-> This is a multiline quote element
-> "Not all who wander are lost" - J.R.R. Tolkien
+> Quotes: "Not all who wander are lost" - J.R.R. Tolkien
 
 ## Features of Markdown
 
 ### Text Markup
 
-[links](www.linktowebsite.com)
-![images](www.linktoimage.com/image)
+[links](https://.unsplash.com)
+
+![images](https://images.unsplash.com/photo-1633917737415-3549f9a77cd5?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60)
+
 **Bold Text**
+
 *Italic text*
+
 `code blocks function(){console.log('hello world')}`
 
 ### Tables
